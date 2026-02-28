@@ -1,0 +1,4 @@
+/give Dev minecraft:infested_cobblestone
+/give Dev minecraft:infested_cobblestone 64
+/give Dev minecraft:diamond_pickaxe
+/gamemode survival

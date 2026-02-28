@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.austin.silverfish.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "InfestedBlockMixin",
+    "MobDespawnMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
